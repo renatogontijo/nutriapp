@@ -1,0 +1,11 @@
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.csprojAssemblyReference.cache
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.csproj.CoreCompileInputs.cache
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.AssemblyInfoInputs.cache
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.AssemblyInfo.cs
+G:\projetos\dti_digital\nutriapp\src\nutriapp\bin\Debug\netcoreapp2.2\nutriapp.deps.json
+G:\projetos\dti_digital\nutriapp\src\nutriapp\bin\Debug\netcoreapp2.2\nutriapp.runtimeconfig.json
+G:\projetos\dti_digital\nutriapp\src\nutriapp\bin\Debug\netcoreapp2.2\nutriapp.runtimeconfig.dev.json
+G:\projetos\dti_digital\nutriapp\src\nutriapp\bin\Debug\netcoreapp2.2\nutriapp.dll
+G:\projetos\dti_digital\nutriapp\src\nutriapp\bin\Debug\netcoreapp2.2\nutriapp.pdb
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.dll
+G:\projetos\dti_digital\nutriapp\src\nutriapp\obj\Debug\netcoreapp2.2\nutriapp.pdb

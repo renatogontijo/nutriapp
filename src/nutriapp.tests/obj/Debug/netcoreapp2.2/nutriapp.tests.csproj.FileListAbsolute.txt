@@ -1,0 +1,17 @@
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.tests.deps.json
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.tests.runtimeconfig.json
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.tests.runtimeconfig.dev.json
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.tests.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.tests.pdb
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\bin\Debug\netcoreapp2.2\nutriapp.pdb
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.csprojAssemblyReference.cache
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.csproj.CoreCompileInputs.cache
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.AssemblyInfoInputs.cache
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.AssemblyInfo.cs
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.csproj.CopyComplete
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.dll
+g:\projetos\dti_digital\nutriapp\src\nutriapp.tests\obj\Debug\netcoreapp2.2\nutriapp.tests.pdb
